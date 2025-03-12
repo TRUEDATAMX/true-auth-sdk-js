@@ -1,0 +1,20 @@
+{
+  "name": "trueauth",
+  "version": "0.1.0",
+  "description": "Authentication SDK",
+  "main": "src/trueauth.js",
+  "scripts": {
+    "test": "node mockexample.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TRUEDATAMX/true-auth-sdk-js"
+  },
+  "author": "TRUE Data Science & Engineering",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "jsonwebtoken": "^9.0.0"
+  }
+}
