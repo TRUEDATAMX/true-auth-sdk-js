@@ -2,9 +2,9 @@
   "name": "trueauth",
   "version": "0.1.0",
   "description": "Authentication SDK",
-  "main": "src/trueauth.js",
+  "main": "lib/index.js",
   "scripts": {
-    "test": "node mockexample.js"
+    "test": "node test/example.test.js"
   },
   "repository": {
     "type": "git",
