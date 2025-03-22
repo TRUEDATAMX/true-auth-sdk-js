@@ -1,0 +1,26 @@
+{
+  "name": "trueauth",
+  "version": "0.1.0",
+  "description": "Authentication SDK for service-to-service communication using JWT",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test/example.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TRUEDATAMX/true-auth-sdk-js.git"
+  },
+  "keywords": [
+    "authentication",
+    "jwt",
+    "sdk",
+    "trueauth"
+  ],
+  "author": "TRUE Data Science & Engineering",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "jsonwebtoken": "^9.0.0"
+  }
+}
