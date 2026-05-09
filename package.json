@@ -1,6 +1,6 @@
 {
   "name": "trueauth",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Authentication SDK for service-to-service communication using JWT",
   "main": "lib/index.js",
   "scripts": {
@@ -18,9 +18,5 @@
   ],
   "author": "TRUE Data Science & Engineering",
   "license": "MIT",
-  "dependencies": {
-    "axios": "^1.4.0",
-    "dotenv": "^16.0.3",
-    "jsonwebtoken": "^9.0.0"
-  }
+  "dependencies": {}
 }
